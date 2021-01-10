@@ -39,8 +39,8 @@ namespace stok_takip
                 //datagridview1'deki tüm satırı seç              
                 dataGridView1.Columns[0].HeaderText = "ÜRÜN ADI";
                 //sütunlardaki textleri değiştirme
-                dataGridView1.Columns[1].HeaderText = "STOK MODELİ";
-                dataGridView1.Columns[2].HeaderText = "STOK SERİNO";
+                dataGridView1.Columns[1].HeaderText = "ÜRÜN TÜRÜ";
+                dataGridView1.Columns[2].HeaderText = "ÜRÜN MODELİ";
                 dataGridView1.Columns[3].HeaderText = "STOK ADEDİ";
                 dataGridView1.Columns[4].HeaderText = "STOK TARİH";
                 dataGridView1.Columns[5].HeaderText = "KAYIT YAPAN";

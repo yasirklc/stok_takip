@@ -238,7 +238,7 @@ namespace stok_takip
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(102, 17);
             this.label8.TabIndex = 17;
-            this.label8.Text = "ÜRÜN MODELİ";
+            this.label8.Text = "ÜRÜN TÜRÜ";
             // 
             // btnStokEkle
             // 
