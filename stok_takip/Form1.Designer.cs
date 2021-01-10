@@ -160,7 +160,7 @@ namespace stok_takip
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(102, 17);
             this.label2.TabIndex = 10;
-            this.label2.Text = "ÜRÜN MODELİ";
+            this.label2.Text = "ÜRÜN TÜRÜ";
             // 
             // label3
             // 
@@ -170,7 +170,7 @@ namespace stok_takip
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(102, 17);
             this.label3.TabIndex = 11;
-            this.label3.Text = "ÜRÜN TÜRÜ";
+            this.label3.Text = "ÜRÜN MODELİ";
             // 
             // label4
             // 
