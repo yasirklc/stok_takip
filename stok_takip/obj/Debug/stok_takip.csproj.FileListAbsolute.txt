@@ -1,0 +1,10 @@
+C:\Users\yasir\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.csprojAssemblyReference.cache
+C:\Users\yasir\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.Properties.Resources.resources
+C:\Users\yasir\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.GenerateResource.cache
+C:\Users\yasir\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.CoreCompileInputs.cache
+C:\Users\yasir\source\repos\stok_takip\stok_takip\bin\Debug\stok_takip.exe.config
+C:\Users\yasir\source\repos\stok_takip\stok_takip\bin\Debug\stok_takip.exe
+C:\Users\yasir\source\repos\stok_takip\stok_takip\bin\Debug\stok_takip.pdb
+C:\Users\yasir\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.exe
+C:\Users\yasir\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.pdb
+C:\Users\yasir\source\repos\stok_takip\stok_takip\obj\Debug\stok_takip.Form1.resources
